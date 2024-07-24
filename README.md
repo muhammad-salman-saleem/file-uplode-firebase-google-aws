@@ -28,13 +28,13 @@ This Node.js project provides a RESTful API for uploading files to Google Cloud 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/muhammad-salman-saleem/file-uplode-firebase-google-aws.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd file-uplode-firebase-google-aws
 ```
 
 Install dependencies
